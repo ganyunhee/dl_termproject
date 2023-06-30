@@ -29,3 +29,5 @@ prereq : folder containing study materials
   - opencv_study.ipynb : study on OpenCV (understanding image input and color representation)
 
 misc : folder containing other inspiration
+
+기초딥러닝 텀과제 제안서_final_20201658.pdf : PDF file for initial thoughts on project (for reference)
